@@ -7,14 +7,14 @@
 }
 
 .Weather h1 {
-  color: #878787;
+  margin: 20px 0 0 0;
   color: rgb(135, 135, 135);
   font-size: 24px;
   font-weight: 100;
   line-height: 29px;
 }
 .Weather ul {
-  margin: 20px 0 0 0;
+  margin: 0;
   padding: 0;
 }
 .Weather li {
@@ -34,6 +34,8 @@
   color: rgb(33, 33, 33);
   font-size: 64px;
   font-weight: 400;
+  line-height: 64px;
+  margin-left: 10px;
 }
 .Weather .unit {
   color: rgb(33, 33, 33);
@@ -42,5 +44,4 @@
   position: relative;
   line-height: 1;
   top: -34px;
-  margin-left: 5px;
 }
