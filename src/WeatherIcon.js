@@ -4,9 +4,9 @@ import ReactAnimatedWeather from "react-animated-weather";
 export default function WeatherIcon(props) {
   return (
     <ReactAnimatedWeather
-      icon="CLEAR DAY"
+      icon="CLEAR_DAY"
       color="#1d6ef8"
-      size={64}
+      size={52}
       animate={true}
     />
   );
