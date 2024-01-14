@@ -14,7 +14,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            is open-sourced on Github and hosted on Netlify.
+            is open-sourced on Github and <a href="/">hosted on Netlify</a>.
           </a>
         </footer>
       </div>
