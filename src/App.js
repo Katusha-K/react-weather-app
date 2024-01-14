@@ -14,8 +14,13 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            is open-sourced on Github and <a href="/">hosted on Netlify</a>.
+            is open-sourced on Github
+          </a>{" "}
+          and{" "}
+          <a href="https://app.netlify.com/sites/glistening-lollipop-224c93/overview">
+            hosted on Netlify
           </a>
+          .
         </footer>
       </div>
     </div>
