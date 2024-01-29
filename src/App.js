@@ -17,7 +17,11 @@ export default function App() {
             is open-sourced on Github
           </a>{" "}
           and{" "}
-          <a href="https://app.netlify.com/sites/glistening-lollipop-224c93/overview">
+          <a
+            href="https://app.netlify.com/sites/glistening-lollipop-224c93/overview"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             hosted on Netlify
           </a>
           .
